@@ -11,9 +11,9 @@
     <string>/usr/local/bin/node_exporter $(&lt; /usr/local/etc/node_exporter.args)</string>
   </array>
   <key>UserName</key>
-  <string>nobody</string>
+  <string>root</string>
   <key>GroupName</key>
-  <string>nobody</string>
+  <string>root</string>
   <key>RunAtLoad</key>
   <true/>
   <key>KeepAlive</key>
